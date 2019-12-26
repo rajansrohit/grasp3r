@@ -140,6 +140,11 @@
                         },
                         {
                             "name": {
+                                "value": "release"
+                            }
+                        },
+                        {
+                            "name": {
                                 "value": "circle"
                             }
                         },
