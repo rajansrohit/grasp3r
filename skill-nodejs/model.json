@@ -152,11 +152,6 @@
                             "name": {
                                 "value": "patrol"
                             }
-                        },
-                        {
-                            "name": {
-                                "value": "cannon"
-                            }
                         }
                     ]
                 }
