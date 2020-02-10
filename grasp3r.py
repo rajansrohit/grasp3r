@@ -11,7 +11,7 @@ from agt import AlexaGadget
 
 from ev3dev2.led import Leds
 from ev3dev2.sound import Sound
-from ev3dev2.motor import OUTPUT_A, OUTPUT_B, OUTPUT_C, MoveTank, SpeedPercent, MediumMotor
+from ev3dev2.motor import OUTPUT_A, OUTPUT_B, OUTPUT_C, MoveTank, SpeedPercent, MediumMoto
 
 # Set the logging level to INFO to see messages from AlexaGadget
 logging.basicConfig(level=logging.INFO, stream=sys.stdout, format='%(message)s')
